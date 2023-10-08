@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as d,r as e}from"./index.f8deadf5.js";const o={class:"fs-body"};var r=s({name:"MyBody"},[["render",function(s,r,t,f,n,c){return a(),d("div",o,[e(s.$slots,"default")])}]]);export{r as default};
