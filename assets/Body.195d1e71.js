@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,r}from"./index.46b62a60.js";const e={class:"fs-body"};var t=s({name:"MyBody"},[["render",function(s,t,d,n,f,c){return a(),o("div",e,[r(s.$slots,"default")])}]]);export{t as default};
